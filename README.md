@@ -1,4 +1,4 @@
-(English version [#LegalTechLab](below))
+(English version [below](#LegalTechLab))
 
 # Legal Tech Labor {#LegalTechLabor}
 
